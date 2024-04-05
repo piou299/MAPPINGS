@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+xynSAP9SfHKh8F/Z/Ymed7o06JkSF3QR4jhBLBa6oc+BlvtQvWn4T/wvGUs8+kwn5AGHFha0nvCtTB1ND5yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hardy.ghomsibopda\\source\\repos\\MAPPING\\MAPPING\\MAPPING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hardy.ghomsibopda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
